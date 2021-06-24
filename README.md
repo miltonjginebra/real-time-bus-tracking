@@ -1,4 +1,4 @@
-<h1>Pac-Men Exercise</h1>
+<h1>Real Time Bus Tracking</h1>
 <h3>Description</h3>
 <p>This is a project for testing calls to an external API and programatically manipulating the DOM. You can test it yourself and feel free to help out.</p>
 <br>
@@ -12,7 +12,7 @@
 <p>No support is provided with this code.</p>
 <br>
 <h3>Roadmap</h3>
-<p>I would like to include a toggle for night more and setting the map to a dark style.</p>
+<p>I would like to include a toggle for night mode and setting the map to a dark style.</p>
 <br>
 <h3>License</h3>
 <p>
